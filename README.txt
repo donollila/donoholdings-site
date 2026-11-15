@@ -6,6 +6,7 @@ keeping the folders as they are. The pages then live at:
 
   https://donoholdings.com/            home page
   https://donoholdings.com/solitrio/   SoliTrio app page   (App Store "Marketing URL")
+  https://donoholdings.com/books/      Books page (Dream Dive)
   https://donoholdings.com/support/    support page        (App Store "Support URL")
   https://donoholdings.com/privacy/    privacy policy      (App Store "Privacy Policy URL")
 
