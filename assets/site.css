@@ -132,3 +132,8 @@ details > div p:last-child{margin-bottom:0}
 .book-card p{margin:4px 0 8px}
 .book-card a{font-weight:600}
 @media (max-width:760px){.book-hero .wrap{grid-template-columns:1fr}.book-cover{width:min(230px,70%)}}
+
+.author{display:flex;gap:22px;align-items:flex-start}
+.author img{width:150px;height:150px;border-radius:50%;object-fit:cover;flex:none;box-shadow:0 6px 18px rgba(0,0,0,.18)}
+.author p{margin:0}
+@media (max-width:560px){.author{flex-direction:column;align-items:center;text-align:left}.author img{width:140px;height:140px}}
