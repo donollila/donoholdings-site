@@ -137,3 +137,4 @@ details > div p:last-child{margin-bottom:0}
 .author img{width:150px;height:150px;border-radius:50%;object-fit:cover;flex:none;box-shadow:0 6px 18px rgba(0,0,0,.18)}
 .author p{margin:0}
 @media (max-width:560px){.author{flex-direction:column;align-items:center;text-align:left}.author img{width:140px;height:140px}}
+.author-contact{margin-top:16px}
